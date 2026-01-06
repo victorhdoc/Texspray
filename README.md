@@ -1,11 +1,11 @@
-# Hi there! I'm an Electronic Engineering Student ⚡
+# Hi there! I'm an Electronic Engineer ⚡
 
-I'm currently in my final year, specializing in **Embedded Systems**, **Hardware Design**, and **Instrumentation**. My passion lies in bridging the gap between analog signals and digital processing.
+I'm an **Electronic Engineer** with a strong background in **Embedded Systems**, **Hardware Design**, and **Instrumentation**. My passion lies in bridging the gap between analog signals and digital processing.
 
 ---
 
-### 🔭 Current Focus: Undergraduate Thesis (TCC)
-I am developing a **Portable Impedance Analyzer** using the **AD5933** chip.
+### 🏆 Featured Project: Impedance Analyzer (Undergraduate Thesis)
+For my final project, I developed a **Portable Impedance Analyzer** using the **AD5933** chip.
 * **Hardware:** Custom PCB designed in Altium Designer.
 * **Firmware:** C++ implementation for STM32/ESP32.
 * **Software:** Python (PyQt) interface for data visualization and control.
