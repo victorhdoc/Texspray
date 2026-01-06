@@ -1,6 +1,7 @@
 # Hi there! I'm an Electronic Engineer ⚡
 
-I'm an **Electronic Engineer** with a background in **Embedded Systems**, **Hardware Design**, **Automation**, and **Instrumentation**. My passion lies in the core engineering principle: understanding problems deeply to develop robust solutions. Always studying...
+I'm an **Electronic Engineer** with a background in **Embedded Systems**, **Hardware Design**, **Automation**, and **Instrumentation**. My passion lies in the core engineering principle: understanding problems deeply to develop robust solutions. Always seeking to study new areas...
+[**Open to Hire**]
 
 ---
 
